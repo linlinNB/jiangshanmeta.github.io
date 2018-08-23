@@ -1,2 +1,0 @@
-webpackJsonp([36],{763:function(e,t,i){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={props:{idfield:{type:String,default:"id"}},computed:{id:function(){return this.data[this.idfield]}}}}});
-//# sourceMappingURL=36.c043c9a15ecc964607d2.js.map
